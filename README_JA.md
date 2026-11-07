@@ -1,5 +1,5 @@
 # PSP TV Fullscreen — v1.0.0
-![PSP TV Fullscreen — OFF vs ON](PSP-TV-Fullscreen-Social-Preview-1280x640jpg)
+![PSP TV Fullscreen — OFF vs ON](PSP-TV-Fullscreen-Social-Preview-1280x640.jpg)
 
 PSP-3000の**ゲーム用TV出力をSony純正の拡大プリセットでフル幅表示**する、ARK-5向けGAME専用PRXプラグイン。
 
