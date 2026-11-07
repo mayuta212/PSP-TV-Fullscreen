@@ -1,4 +1,5 @@
 # PSP TV Fullscreen
+![PSP TV Fullscreen — OFF vs ON](PSP-TV-Fullscreen-Social-Preview-1280x640-safe.jpg)
 
 **v1.0.0** — Native full-width PSP GAME video over 480i and 480p TV-out.
 
